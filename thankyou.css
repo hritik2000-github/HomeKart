@@ -1,0 +1,36 @@
+*{
+    background: black;
+    margin: auto;   
+}
+
+.text{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.text h1{
+    color: white;
+}
+
+
+.btn{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 250px;
+    margin-right: 125px;
+  
+}
+.btn a{
+    background: orange;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 5px;
+    border: 2px solid orange;
+}
+
+.btn a:hover{
+    color: orange;
+    background: none;
+}
